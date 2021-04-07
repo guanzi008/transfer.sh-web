@@ -1,3 +1,3 @@
-module github.com/dutchcoders/transfer.sh-web
+module github.com/guanzi008/transfer.sh-web
 
 go 1.15
